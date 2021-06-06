@@ -11,12 +11,21 @@ I’m Ramesh
 
 
 ### Languages and Tools -
-![docker](https://www.docker.com/)![flask](https://flask.palletsprojects.com/en/2.0.x/)
+> python 
+> flask
+> scikit-learn
+> sql
+> keras
+> docker
+> postman
+> git
+> heroku
+> linux
 
 
 ### Hobbies and Interests
-- Stock Market
-- Cricket
+> Stock Market- Algo trading
+> Cricket
 
 <!---
 RameshK-1511/RameshK-1511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
