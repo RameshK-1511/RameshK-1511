@@ -1,7 +1,4 @@
-### Hi 
-
-
-I’m Ramesh
+### Hi I’m Ramesh
 
 ### I have experience and technical interest in -
 - Machine Learning
