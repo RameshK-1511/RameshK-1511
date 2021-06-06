@@ -11,7 +11,7 @@ I’m Ramesh
 
 
 ### Languages and Tools -
-![docker](https://www.docker.com/sites/default/files/d8/styles/large/public/2019-11/docker-app.png?itok=slUFBv17)![flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)
+![docker](https://www.docker.com/)![flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 
 ### Hobbies and Interests
